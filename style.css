@@ -1,0 +1,18 @@
+html {
+   background-color: rgb(120, 189, 189);
+}
+
+#name {
+   color: rgb(241, 227, 227);
+}
+
+#it {
+   color: brown;
+   font-weight: 900;
+   font-size: large;
+}
+
+h3 {
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   text-align: center;
+}
